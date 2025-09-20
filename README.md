@@ -12,7 +12,7 @@
 Here are a few projects that reflect my interests and skills:
 
 - 🔍 [**Statistical Analysis of Rare Events**](#)  
-  Applied machine learning algorithms to detect and classify rare events. Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance and improve model performance. Also employed statistical inference techniques to support findings.
+  Applied machine learning algorithms to detect and classify rare events. Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance and improve model performance.
 
 - 🌾 [**Multivariate Analysis of Cereal Nutrient Data**](#)  
   Explored nutritional profiles of various cereals using PCA, clustering, and visualizations. Provided actionable insights into product segmentation and health metrics.
