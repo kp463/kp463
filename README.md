@@ -11,14 +11,12 @@
 
 Here are a few projects that reflect my interests and skills:
 
-- 📈 [**Time Series Forecasting Toolkit**](https://github.com/kp463/Statistical-Analysis-of-Rare-Events)  
-  A collection of classical and ML-based models for time series forecasting, inclu
+- 🔍 [**Statistical Analysis of Rare Events**](#)  
+  Applied probabilistic models and statistical inference to understand and quantify rare occurrences. Techniques include Poisson processes, extreme value theory, and goodness-of-fit tests.
 
-- 🧠 [**Deep Learning Models from Scratch**](https://github.com/KaulikPoddar/DL-From-Scratch)  
-  Implementing core neural networks using NumPy — no frameworks, just fundamentals.
+- 🌾 [**Multivariate Analysis of Cereal Nutrient Data**](#)  
+  Explored nutritional profiles of various cereals using PCA, clustering, and visualizations. Provided actionable insights into product segmentation and health metrics.
 
-- 💹 [**Quantitative Finance Explorer**](https://github.com/KaulikPoddar/Quant-Finance-Explorer)  
-  Exploring financial modeling techniques: CAPM, options pricing, portfolio optimization.
+- 🚗 [**EDA and Prediction of Car Price**](#)  
+  Conducted in-depth exploratory analysis and developed regression models to predict car prices based on multiple features. Focused on interpretability and performance.
 
-- 📊 [**EDA & Visualization in R**](https://github.com/KaulikPoddar/EDA-in-R)  
-  Using R for insightful exploratory data analysis with ggplot2 and dplyr.
