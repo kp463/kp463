@@ -1,1 +1,8 @@
-Hello, I am Kaulik Poddar currently working as a statistician in 50 Hertz Limited. I completed M.Stat from Indian Statistical Institute, Kolkata. I did my graduation in Statistics from St. Xavier's College (Autonomous), Kolkata. I am deeply passionate about statistics, time series analysis, machine learning, deep learning and quantitative finance with strong skills in critical thinking, problem-solving and teamwork.
+# Hi there, I am Kaulik Poddar 👋
+
+🎯 Statistician at **50 Hertz Limited**  
+🎓 M.Stat from **Indian Statistical Institute, Kolkata**  
+🎓 B.Sc. in Statistics from **St. Xavier's College (Autonomous), Kolkata**
+
+📊 Passionate about **Statistics**, **Time Series Analysis**, **Machine Learning**, **Deep Learning**, and **Quantitative Finance**  
+🧠 Skilled in **Critical Thinking**, **Problem-Solving**, and **Teamwork**
