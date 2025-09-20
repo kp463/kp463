@@ -24,4 +24,4 @@ Here are a few projects that reflect my interests and skills:
 I'm always happy to connect and collaborate on exciting data-driven projects. Feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaulikPoddar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
-[![Gmail](https://img.shields.io/badge/Email-kaulikpoddar63@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kaulikpoddar63@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kaulikpoddar@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kaulikpoddar63@gmail.com)
