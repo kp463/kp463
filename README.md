@@ -19,3 +19,9 @@ Here are a few projects that reflect my interests and skills:
 - 🚗 [**EDA and Prediction of Car Price : Uncovering Insights and Building Regression Models**](#)  
   Conducted in-depth exploratory analysis and developed regression models to predict car prices based on multiple features. Focused on interpretability and performance.
 
+### 📬 Get in Touch
+
+I'm always happy to connect and collaborate on exciting data-driven projects. Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KaulikPoddar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+[![Gmail](https://img.shields.io/badge/Email-kaulikpodda63r@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kaulikpoddar63@gmail.com)
