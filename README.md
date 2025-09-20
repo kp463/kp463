@@ -11,8 +11,8 @@
 
 Here are a few projects that reflect my interests and skills:
 
-- 📈 [**Time Series Forecasting Toolkit**]([https://github.com/KaulikPoddar/Time-Series-Forecasting-Toolkit](https://github.com/kp463/Statistical-Analysis-of-Rare-Events))  
-  A collection of classical and ML-based models for time series forecasting, including ARIMA, Prophet, and LSTM.
+- 📈 [**Time Series Forecasting Toolkit**](https://github.com/kp463/Statistical-Analysis-of-Rare-Events)  
+  A collection of classical and ML-based models for time series forecasting, inclu
 
 - 🧠 [**Deep Learning Models from Scratch**](https://github.com/KaulikPoddar/DL-From-Scratch)  
   Implementing core neural networks using NumPy — no frameworks, just fundamentals.
