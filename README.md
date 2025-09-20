@@ -12,11 +12,11 @@
 Here are a few projects that reflect my interests and skills:
 
 - 🔍 [**Statistical Analysis of Rare Events**](#)  
-  Applied probabilistic models and statistical inference to understand and quantify rare occurrences. Techniques include Poisson processes, extreme value theory, and goodness-of-fit tests.
+  Applied machine learning algorithms to detect and classify rare events. Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance and improve model performance. Also employed statistical inference techniques to support findings.
 
 - 🌾 [**Multivariate Analysis of Cereal Nutrient Data**](#)  
   Explored nutritional profiles of various cereals using PCA, clustering, and visualizations. Provided actionable insights into product segmentation and health metrics.
 
-- 🚗 [**EDA and Prediction of Car Price**](#)  
+- 🚗 [**EDA and Prediction of Car Price : Uncovering Insights and Building Regression Models**](#)  
   Conducted in-depth exploratory analysis and developed regression models to predict car prices based on multiple features. Focused on interpretability and performance.
 
