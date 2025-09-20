@@ -15,8 +15,7 @@ Here are a few projects that reflect my interests and skills:
   Applied machine learning algorithms to detect and classify rare events. Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance and improve model performance.
 
 - 🌾 [**Multivariate Analysis of Cereal Nutrient Data**](#)  
-  Explored nutritional profiles of various cereals using PCA, clustering, and visualizations. Provided actionable insights into product segmentation and health metrics.
-
+   Performed multivariate analysis on cereal nutrition data. Used PCA to assess variable importance and dimensionality. Conducted tests for multivariate normality and applied Discriminant Analysis for classifying cereals based on nutrient profiles.
 - 🚗 [**EDA and Prediction of Car Price : Uncovering Insights and Building Regression Models**](#)  
   Conducted in-depth exploratory analysis and developed regression models to predict car prices based on multiple features. Focused on interpretability and performance.
 
