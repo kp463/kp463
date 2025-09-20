@@ -5,4 +5,4 @@
 🎓 B.Sc. in Statistics from **St. Xavier's College (Autonomous), Kolkata**.
 
 📊 Passionate about **Statistics**, **Time Series Analysis**, **Machine Learning**, **Deep Learning** and **Quantitative Finance**.  
-🧠 Skilled in **Critical Thinking**, **Problem-Solving** and **Algorithm Development**
+🧠 Skilled in **Critical Thinking**, **Problem-Solving** and **Algorithm Development**.
